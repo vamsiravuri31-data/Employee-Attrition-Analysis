@@ -19,8 +19,5 @@ This project analyzes employee attrition using HR data to identify key factors i
 - Provide clear career growth opportunities
 - Implement role-specific retention strategies
 
-## 📷 Dashboard
-(Upload your image here)
-
 ## 🎯 Outcome
 The project helps organizations identify attrition drivers and take data-driven actions to improve employee retention.
